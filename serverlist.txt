@@ -1,0 +1,4 @@
+# server_name_application_id 
+# Use below as a sample
+qa-ayman-app01
+stg-ayman-app01
